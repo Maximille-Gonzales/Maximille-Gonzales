@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <h3 align="center">A business intelligence analyst from California. My skills include data visualization and storytelling, SQL, Tableau, and Google Workspace. I am eager to leverage my big data and visualization skills to drive growth, boost sales and guide data driven business decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximille-gonzales&label=Profile%20views&color=0e75b6&style=flat" alt="maximille-gonzales" /> </p>
