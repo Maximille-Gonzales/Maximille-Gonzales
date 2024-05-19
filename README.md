@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 A business intelligence analyst from California. My skills include business analytics, data visualization and storytelling, SQL, Tableau, and Google Workspace. Now, I am eager to leverage my big data and visualization skills to drive growth, boost sales and guide business decisions driven by data.
-<space>
+
 Currently, I am an experienced tour guide, commercial photographer and the chief communications manager and co-host of the Globetrotters Podcast. The responsibility of these roles range from operations, customer engagement, website development, digital and social media marketing and partnership outreach and communication. These roles have helped me develop my communication, analytical, time and project management, and problem-solving skills. In 2024, I enrolled in the TripleTen 5-month Business Intelligence Analyst program. The curriculum covered spreadsheets (data cleaning and preprocessing, pivot tables, graphics and charts), SQL databases (SQL as a tool for working with data, advanced scl features for analysts, relationships between tables), business analytics (business, funnel, cohort and user metrics), data visualization with Tableau (building and reading interactive charts), and storytelling with data (utilizing Tableau dashboards and stories to build data driven stories), and more. It also involved numerous practical projects.
 
 Some facts about me:
