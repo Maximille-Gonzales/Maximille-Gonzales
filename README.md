@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-align="center">A business intelligence analyst from California. My skills include data visualization and storytelling, SQL, Tableau, and Google Workspace. I am eager to leverage my big data and visualization skills to drive growth, boost sales and guide data driven business decisions.
+A business intelligence analyst from California. My skills include data visualization and storytelling, SQL, Tableau, and Google Workspace. I am eager to leverage my big data and visualization skills to drive growth, boost sales and guide data driven business decisions.
 
 - 🔭 I’m currently working on TripleTen's BIA Bootcamp where I am expanding my skillset of all things data - SQL, Tableau, and Google Workspace. I aim to utilize my understanding of how to sift through big data to gain a better understanding of a companies performance in order to promote growth.
 
