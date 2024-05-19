@@ -14,3 +14,5 @@ A business intelligence analyst from California. My skills include data visualiz
 - 📄 Know about my personal life at [https://www.maxoutthere.com/](https://www.maxoutthere.com/)
 
 - ⚡ Fun fact I love travel so much that I have been to more than 30 countries and promote travel for mental health on the Globetrotters Podcast.
+
+Feel free to contact me on Grithub, LinkedIn or via my email above!
