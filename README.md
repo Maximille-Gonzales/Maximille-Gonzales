@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
+## Hey 👋, I'm Max
 [![Gmail Badge](https://img.shields.io/badge/-maximillegonzales@gmail.com-c14438style=flat&logo=Gmail&logoColor=white&link=mailto:maximillegonzales@gmail.com)](mailto:maximillegonzales@gmail.com)
 
 A business intelligence analyst from California. My skills include business analytics, data visualization and storytelling, SQL, Tableau, and Google Workspace. Now, I am eager to leverage my big data and visualization skills to drive growth, boost sales and guide business decisions driven by data.
