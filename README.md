@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, This is Max</h1>
+<h1 align="left">Hey 👋, This is Maximille Gonzales</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Maximille-Gonzales)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maximillegonzales//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](maximillegonzales@gmail.com)  
 
