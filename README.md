@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Max</h1>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Maximille-Gonzales)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maximillegonzales//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](maximillegonzales@gmail.com)  
+
 [![Gmail Badge](https://img.shields.io/badge/-maximillegonzales@gmail.com-c14438style=flat&logo=Gmail&logoColor=white&link=mailto:maximillegonzales@gmail.com)](mailto:maximillegonzales@gmail.com)
 
 A business intelligence analyst from California. My skills include business analytics, data visualization and storytelling, SQL, Tableau, and Google Workspace. Now, I am eager to leverage my big data and visualization skills to drive growth, boost sales and guide business decisions driven by data.
