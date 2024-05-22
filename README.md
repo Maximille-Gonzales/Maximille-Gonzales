@@ -2,7 +2,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-maximillegonzales@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:maximillegonzales@gmail.com)](mailto:maximillegonzales@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-maximillegonzales-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximillegonzales/)](https://www.linkedin.com/in/maximillegonzales/)
-[![GitHub Badge](https://img.shields.io/badge/-Maximille-Gonzales-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Maximille-Gonzales)](https://github.com/Maximille-Gonzales)
 
 Hi! I'm a business intelligence analyst from California. My skills include business analytics, data visualization and storytelling, SQL, Tableau, and Google Workspace. Now, I am eager to leverage my big data and visualization skills to drive growth, boost sales and guide business decisions driven by data.
 
