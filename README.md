@@ -20,5 +20,3 @@ Currently, I am an experienced tour guide, commercial photographer and the chief
 - 🎯 My goals for 2024: landing my dream job in data. And becoming more fluent in Spanish!
 
 Feel free to contact me on Grithub, LinkedIn!
-
-You can view my resume [here]([url](https://docs.google.com/document/d/1U31FFG8FYzNo02h8bgoRfCPHX80gGe8hr7JuIgvYwxI/edit?usp=sharing))
